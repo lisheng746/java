@@ -1,4 +1,4 @@
-package com.lisheng.designpattern.singleton;
+package com.lisheng.designpattern.singleton.main;
 
 /**
  * Created by lisheng on 2018/1/24.

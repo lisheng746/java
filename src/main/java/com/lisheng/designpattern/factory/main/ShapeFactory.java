@@ -1,4 +1,4 @@
-package com.lisheng.designpattern.factory;
+package com.lisheng.designpattern.factory.main;
 
 import com.lisheng.designpattern.factory.impl.Circle;
 import com.lisheng.designpattern.factory.impl.Rectangle;

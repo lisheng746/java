@@ -1,4 +1,4 @@
-package com.lisheng.designpattern.abstractfactory;
+package com.lisheng.designpattern.abstractfactory.main;
 
 import com.lisheng.designpattern.abstractfactory.intf.Color;
 import com.lisheng.designpattern.factory.intf.Shape;

@@ -1,4 +1,4 @@
-package com.lisheng.designpattern.abstractfactory;
+package com.lisheng.designpattern.abstractfactory.main;
 
 /**
  * Created by lisheng on 2018/1/24.

@@ -1,4 +1,4 @@
-package com.lisheng.designpattern.builder;
+package com.lisheng.designpattern.builder.main;
 
 import com.lisheng.designpattern.builder.intf.Item;
 

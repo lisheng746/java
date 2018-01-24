@@ -1,4 +1,4 @@
-package com.lisheng.designpattern.builder;
+package com.lisheng.designpattern.builder.main;
 
 /**
  * Created by lisheng on 2018/1/24.

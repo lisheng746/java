@@ -1,9 +1,10 @@
-package com.lisheng.designpattern.builder;
+package com.lisheng.designpattern.builder.main;
 
 import com.lisheng.designpattern.builder.item.ChickenBurger;
 import com.lisheng.designpattern.builder.item.Coke;
 import com.lisheng.designpattern.builder.item.Pepsi;
 import com.lisheng.designpattern.builder.item.VegBurger;
+import com.lisheng.designpattern.builder.main.Meal;
 
 /**
  * Created by lisheng on 2018/1/24.

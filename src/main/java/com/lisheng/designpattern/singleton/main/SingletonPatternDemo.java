@@ -1,4 +1,6 @@
-package com.lisheng.designpattern.singleton;
+package com.lisheng.designpattern.singleton.main;
+
+import com.lisheng.designpattern.singleton.main.SingleObject;
 
 /**
  * Created by lisheng on 2018/1/24.
